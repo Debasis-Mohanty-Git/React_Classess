@@ -3,8 +3,13 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-     <h1>Hello React</h1>
+    <div>
+      <img src="queenofKatwe.webp" alt=""></img>
+     <h2>Name: Queen Of Tears</h2>
+     <h3>Rating: 8.2</h3>
+     <p>Summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+      Ratione consequuntur dicta quibusdam doloremque blanditiis alias facere ullam nostrum 
+      mollitia eligendi. Possimus, et quasi.</p>
     </div>
   );
 }
